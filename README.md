@@ -40,7 +40,7 @@ Congratulation! You have achieved satisfactory grades in your courses namely Mar
 8.2 Should We Minimize Data-to-Ink Ratio? Why?  
 8.3 Are 3D Charts Bad? Why?  
 8.4 Are Pie Charts Bad? Why?  
-8.5 (PRO-TIP) Are More Accurate Visualizations Always Better? Why?
+8.5 (PRO-TIP) What Are Good Visualization Tools?
 ### Day 9: Present Your Results (Intro & Conclusion & Abstract)   
 9.1 When Should You Start Writing?  
 9.2 What are Similarities and differences of Intro, Conclusion and Abstract?  
