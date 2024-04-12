@@ -44,7 +44,7 @@ Congratulation! You have achieved satisfactory grades in your courses namely Mar
 ### Day 9: Present Your Results (Intro & Conclusion & Abstract)   
 9.1 When Should You Start Writing?  
 9.2 What are Similarities and differences of Intro, Conclusion and Abstract?  
-9.3 (PRO-TIP) Which One First? Second? Third?
+9.3 (PRO-TIP) Which One to Write First? Second? Third?
 ### Day 10: Pass the Final Hurdle (Thesis Defense)  
 10.1 Which One Do you Choose? Only Writing, Or Writing + Oral Defense?  
 10.2 What Are (Hidden) Defense Committee Rubrics?  
