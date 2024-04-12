@@ -33,7 +33,7 @@ Congratulation! You have achieved satisfactory grades in your courses namely Mar
 7.1 What Should be Included in Your Empirical Plan?  
 7.2 What Are Basic OLS Assumptions?  
 7.3 What Should Be Included in Regression Tables? Why?  
-7.4 What are Robustness Checks?
+7.4 What are Robustness Checks?  
 7.5 (PRO-TIP) What to Do if Robustness Checks Turn Against You?
 ### Day 8: Present Your Results (Visualizations)  
 8.1 What Do You Include in One Visualization?  
