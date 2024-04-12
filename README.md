@@ -34,7 +34,7 @@ Congratulation! You have achieved satisfactory grades in your courses namely Mar
 7.2 What Are Basic OLS Assumptions?  
 7.3 What Should Be Included in Regression Tables? Why?  
 7.4 What are Robustness Checks?  
-7.5 (PRO-TIP) What to Do if Robustness Checks Turn Against You?
+7.5 (PRO-TIP) Do I Need to Read Econometrics Books?
 ### Day 8: Present Your Results (Visualizations)  
 8.1 What Do You Include in One Visualization?  
 8.2 Should We Minimize Data-to-Ink Ratio? Why?  
