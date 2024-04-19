@@ -5,7 +5,8 @@ Congratulation! You have achieved satisfactory grades in your courses namely Mar
 ### Day 1: Transition from Coursework to Research  
 1.1 Why is Master Thesis so Hard?  
 1.2 Why is Master Thesis the Requirement?  
-1.3 Why Research Methodology? Not Research Method?
+1.3 Why Research Methodology? Not Research Method?  
+Ref: https://www.jstor.org/stable/25604102
 ### Day 2: What is Independent Business Research?  
 2.1 What is Thesis Title?  
 2.2 What is Good Thesis Title?  
