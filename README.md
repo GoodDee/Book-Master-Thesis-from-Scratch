@@ -6,15 +6,10 @@ Congratulation! You have achieved satisfactory grades in your courses namely Mar
 1.1 Why is Master Thesis so Hard?  
 1.2 Why is Master Thesis the Requirement?  
 1.3 Why Research Methodology? Not Research Method?  
-Ref: https://www.jstor.org/stable/25604102   
-https://exeedcollege.com/blog/why-is-the-thesis-report-mandatory-for-mba-students/  
-https://onabike.cc/2018/07/12/making-the-master-thesis-great-again-its-about-tea-and-water-and-the-replication-crisis/  
 ### Day 2: What is Independent Business Research?  
 2.1 What is Thesis Title?  
 2.2 What is Good Thesis Title?  
 2.3 (PRO-TIP) How to Read the First Paper  
-https://www.writerspk.com/thesis-topics-ms-business-administration/  
-https://www.wdassociation.org/a-list-of-brilliant-business-management-masters-thesis-topics.aspx
 ### Day 3: Pass the First Hurdle (Data Collection)  
 3.1 Should you Start Data Collection after Perfect Topic?  
 3.2 (PRO-TIP) How to Identify Good Topic & Feasible Data?
@@ -54,3 +49,9 @@ https://www.wdassociation.org/a-list-of-brilliant-business-management-masters-th
 10.1 Which One Do you Choose? Only Writing, Or Writing + Oral Defense?  
 10.2 What Are (Hidden) Defense Committee Rubrics?  
 10.3 (PRO-TIP) How Do You Arrange Presentation Sequence?
+
+Links: https://www.writerspk.com/thesis-topics-ms-business-administration/  
+https://www.wdassociation.org/a-list-of-brilliant-business-management-masters-thesis-topics.aspx
+https://www.jstor.org/stable/25604102   
+https://exeedcollege.com/blog/why-is-the-thesis-report-mandatory-for-mba-students/  
+https://onabike.cc/2018/07/12/making-the-master-thesis-great-again-its-about-tea-and-water-and-the-replication-crisis/  
