@@ -1,13 +1,16 @@
 # Book-Master-Thesis-from-Scratch
-Congratulation! You have achieved satisfactory grades in your courses namely Marketing, Organization Behavior, Operation Management and Strategy. Suddenly, lightning striked at you! You need to complete an "independent business research" for Master Thesis. You have no ideas what this phrase means. You heard from seniors that it will be difficult, but there are no lectures, no exams, even no syllabus and no letter grades. You will find out exactly what "independent business research" means and you will start on business (research) trip in the right direction!
 
-[PREFACE](https://github.com/GoodDee/Book-Master-Thesis-from-Scratch/blob/main/Chapters_PDF/Master_Thesis_Preface.pdf)
+## Preface
+Congratulation! You have achieved satisfactory grades in your courses namely Marketing, Organization Behavior, Operation Management and Strategy. Suddenly, lightning striked at you! You need to complete an "independent business research" for Master Thesis. You have no ideas what this phrase means. You heard from seniors that it will be difficult, but there are no lectures, no exams, even no syllabus and no letter grades. You will find out exactly what "independent business research" means and you will start on business (research) trip in the right direction!
+[PREFACE.pdf](https://github.com/GoodDee/Book-Master-Thesis-from-Scratch/blob/main/Chapters_PDF/Master_Thesis_Preface.pdf)
 
 ## Tentative Table of Contents
 ### Day 1: Transition from Coursework to Research  
 1.1 Why is Master Thesis so Hard?  
 1.2 Why is Master Thesis the Requirement?  
 1.3 Why Research Methodology? Not Research Method?  
+[DAY1.pdf](https://github.com/GoodDee/Book-Master-Thesis-from-Scratch/blob/main/Chapters_PDF/Master_Thesis_Day_1.pdf)
+
 ### Day 2: What is Independent Business Research?  
 2.1 What is Thesis Title?  
 2.2 What is Good Thesis Title?  
