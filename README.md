@@ -2,6 +2,7 @@
 
 ## Preface
 Congratulation! You have achieved satisfactory grades in your courses namely Marketing, Organization Behavior, Operation Management and Strategy. Suddenly, lightning striked at you! You need to complete an "independent business research" for Master Thesis. You have no ideas what this phrase means. You heard from seniors that it will be difficult, but there are no lectures, no exams, even no syllabus and no letter grades. You will find out exactly what "independent business research" means and you will start on business (research) trip in the right direction!  
+Corresponding Author: Kantapong (Dee) Visantavarakul  
 [PREFACE.pdf](https://github.com/GoodDee/Book-Master-Thesis-from-Scratch/blob/main/Chapters_PDF/Master_Thesis_Preface.pdf)
 
 ## Tentative Table of Contents
