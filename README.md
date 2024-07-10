@@ -15,7 +15,9 @@ Corresponding Author: Kantapong (Dee) Visantavarakul
 ### Day 2: What is Independent Business Research?  
 2.1 What is Thesis Title?  
 2.2 What is Good Thesis Title?  
-2.3 (PRO-TIP) How to Read the First Paper  
+2.3 (PRO-TIP) How to Read the First Paper   
+[DAY2.pdf](https://github.com/GoodDee/Book-Master-Thesis-from-Scratch/blob/main/Chapters_PDF/ms-thesis-scratch-ch2-topics.pdf)  
+  
 ### Day 3: Pass the First Hurdle (Data Collection)  
 3.1 Should you Start Data Collection after Perfect Topic?  
 3.2 (PRO-TIP) How to Identify Good Topic & Feasible Data?
